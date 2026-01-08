@@ -5,7 +5,7 @@ This is my project built using HTML, CSS, JavaScript.
 
 ## Features
 - full HTML use
-- full CSS command with proper use and execution
+- full CSS command with proper use and executiongit add
 
 ## Tech Stack
 - Frontend: HTML, CSS, JS, React
